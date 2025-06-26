@@ -9,7 +9,11 @@ public class BubbleSort {
         //This funtion calling has now changed the arr internals
         //Now just printing it will give us a sorted array
         System.out.println(Arrays.toString(arr));
+
+
     }
+
+    
     //Make a void method as nothing has to be returned
     static void bubbleSort(int[] arr){
         
