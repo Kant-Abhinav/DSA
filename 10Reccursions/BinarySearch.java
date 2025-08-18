@@ -1,7 +1,7 @@
 public class BinarySearch {
     public static void main(String[] args) {
-        int[] arr = {10,20,30,40,50,60,70};
-        int target = 10;
+        int[] arr = {1,2,3,4,5,6};
+        int target = 6;
         
         System.out.println(search(arr,target,0,arr.length-1));
 
